@@ -1,4 +1,5 @@
 #Q1:
+
 print("Sol of Q1: " )
 Set = {1, 3, 5, 7, 8}
 print(Set)
@@ -11,6 +12,7 @@ print(Set)
 print()
 
 #Q2:
+
 print("Sol of Q2: " )
 Dic = {"name":"pigeon", "type":"bird", "skin cover":"feathers"}
 print(Dic)

@@ -1,4 +1,4 @@
-dic = {"Name":"Afraa", "Year of Birth":1993, "Major":"CE"}
+dic = {"Name":"Afra", "Year of Birth":1993, "Major":"CE"}
 print(dic)
 print()
 

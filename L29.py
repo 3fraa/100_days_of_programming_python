@@ -26,7 +26,6 @@ for x in List:
     print(x)
 print()
 
-
 List = ["Apple", "Orange", "banana", "cherry", "blueberry"]
 for x in List:
     if x == "banana":

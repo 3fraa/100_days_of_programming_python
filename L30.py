@@ -16,7 +16,6 @@ else:
     print("Finally Finished!")
 print()
 
-
 LisName = ["Asmaa", "Adel", "Reem", "Yahia"]
 List = ["beautiful", "tall"]
 for x in LisName:

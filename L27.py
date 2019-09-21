@@ -14,7 +14,7 @@ print("<") if a < b else print(">") if a > b else print("=")
 print()
 
 if a > c and b > c :
-    print("c is the lowest number")
+    print("c is the LOWEST number")
 if a > c or b < c :
     print("mayb a greater than c or b less than c")
 

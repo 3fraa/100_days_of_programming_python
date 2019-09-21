@@ -17,7 +17,6 @@ print()
 
 print("Nested Dictionaries")
 
-
 AsmaDic = {
     "dic1" :
     {

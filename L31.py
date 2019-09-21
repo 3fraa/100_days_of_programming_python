@@ -1,5 +1,5 @@
 def myfunction():
-    print("This is my function")
+    print("This is my FUNCTION")
 
 myfunction()
 print()

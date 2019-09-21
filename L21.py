@@ -13,7 +13,6 @@ print("x = " ,x)
 print(theSet)
 print()
 
-
 theSet = {"Afraa", "Laila", 3, 3.75, "Arwa", "Azzah", "Asma"}
 theSet.clear()
 print(theSet)
@@ -143,5 +142,3 @@ print(B)
 A = {'a', 'b', 'c', 'd'}
 B = {'c', 'd', 'e' }
 print()
-
-

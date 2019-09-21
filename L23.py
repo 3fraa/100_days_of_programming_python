@@ -12,7 +12,8 @@ dic.popitem()
 print(dic)
 del dic["Name"]
 print(dic)
-#del dic #will give us error
+#del dic
+#will give us error
 #print(dic)
 dic.clear()
 print(dic)
