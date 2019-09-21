@@ -58,7 +58,6 @@ print(k) #k=
 print()
 print()
 
-
 ##########################
 """Comparison operators"""
 num1 = num2 = 10
@@ -80,10 +79,3 @@ print(num3 > num2) #T
 print(num4 > num3) #F
 print(num1 < num3) #T
 print(num1 < num2) #F
-
-
-
-
-
-
-

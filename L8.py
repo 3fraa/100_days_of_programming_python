@@ -1,4 +1,5 @@
 S = " Are you okay? "
+
 print(S)
 print(S.strip())
 print(len(S))

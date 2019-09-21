@@ -25,14 +25,10 @@ print(j)
 print()
 
 #Str() function
-k = str("Afraa")
+k = str("Afra")
 l = str(23)
 m = str(-1.27)
 print(k)
 print(l)
 print(m)
 print()
-
-
-
-

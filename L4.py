@@ -13,7 +13,7 @@ print(type(z))
 print()
 
 #integer
-a = 154367281098932786754617
+a = 15436728109893278675461
 b = -24124
 
 print(type(a))
@@ -56,12 +56,3 @@ print()
 
 #print random number
 print(random.randrange(4,20))
-      
-
-
-
-
-
-
-
-

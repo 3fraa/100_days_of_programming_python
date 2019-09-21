@@ -1,10 +1,10 @@
-x = "25"
+x = "24"
 y = "They are " + x
 print(y)
 
 """
-#if we write
-x = 25
+#if we write 
+x = 24
 y = "They are " + x
 print(y)
 #will give us an error
@@ -20,4 +20,3 @@ txt2 = "my name is Afraa, I have {1} sisters and {0} brothers"
 print(txt.format(sis))
 print(txt1.format(sis,bro))
 print(txt2.format(bro,sis))
-
