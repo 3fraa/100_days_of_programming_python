@@ -22,7 +22,7 @@ print()
 print()
 
 ########################
-"""Identity Operators"""
+"""Identity Operators"""
 
 a = [ 1,3 ]
 b = [ 1,3 ]
@@ -43,7 +43,7 @@ print()
 print()
 
 ##########################
-"""Membership Operators"""
+"""Membership Operators"""
 
 
 txt = "I have a beautiful friend"

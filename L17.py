@@ -46,7 +46,7 @@ print("The number of items in the T = " , len(T))
 #####################################################
 print()
 
-print( tuple((13, 14,15))) #use tuple() to creat tuple
+print( tuple((13, 14,15))) #use tuple() to creat a tuple
 
 TT = tuple((13, 14,15)) 
 print(TT)

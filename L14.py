@@ -8,7 +8,7 @@ print(list_int[2:6]) # [6, 8, 10 ,12]
 print(list_str[1:3]) #['Noha', 'Leen']
 print(list_float[0:2]) #[2.4, 4.75]
 
-print("###########################################")
+print("#########################################")
 
 print("Is Afraa in the list_str : " , "Afraa" in list_str)
 
@@ -20,7 +20,7 @@ else:
 if "Laila" not in list_str :
     print("Laila not present in list_str")
 
-print("###########################################")
+print("#########################################")
 
 list_python = ["python"] * 6
 print(list_python)

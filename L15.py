@@ -14,7 +14,7 @@ list_str.insert(2,"Walaa")
 print(list_str)
 
 print()
-print("###################################################")
+print("################################################")
 print()
 
 list_int.remove(4)
@@ -33,7 +33,7 @@ list_int.clear()
 print(list_int)
 
 print()
-print("###################################################")
+print("################################################")
 print()
 
 print("list_str  = " , list_str)
@@ -68,7 +68,7 @@ courselist = list(("electronics", "embedded system"))
 print(courselist)
 
 print()
-print("###################################################")
+print("################################################")
 print()
 
 L = [1, 1, 1, 2, 41, 10 , 15]

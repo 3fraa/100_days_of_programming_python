@@ -11,7 +11,7 @@ print(list_float)
 list_mix = [2.4 , 7 , "Walaa"]
 print(list_mix)
 
-print("##############################")
+print("############################")
 
 print(list_str[1]) #Noha
 print()
@@ -23,7 +23,7 @@ print()
 for x in list_float:
     print(x)
 
-print("##############################")
+print("############################")
 
 list_str[0] = "Afraa_mhm"
 print(list_str)

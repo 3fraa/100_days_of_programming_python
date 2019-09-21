@@ -8,7 +8,6 @@ List = list(("سرير", "دولاب", "تسريحة", "مرتبة"))
 print("List = ", List)
 print()
 
-
 #apply 4 functions on the List
 #1 copy()
 newList = List.copy()
@@ -33,7 +32,6 @@ List.pop(2)
 print("4- pop(): ")
 print(List)  
 print()
-
 
 ##############################################
 print("######################################")
