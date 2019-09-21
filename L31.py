@@ -13,10 +13,10 @@ myfunction1(6)
 print()
 
 
-def myfunction2(Name = "Ahmed"):
+def myfunction2(Name = "Asmaa"):
     print(Name ,"from SA")
 
-myfunction2("Afraa")
+myfunction2("Reem")
 myfunction2("Nada")
 myfunction2("Haitham")
 myfunction2()
