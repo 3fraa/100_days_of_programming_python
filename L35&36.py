@@ -23,3 +23,14 @@ def fun(n):
     return lambda a : a * n
 x = fun(3)
 print(x(2))
+print()
+
+
+g = lambda x: "Afraa {}".format(x)
+print(g("Murad"))
+
+g = lambda x: f'Afraa {x}'
+print(g('Murad'))
+
+g = lambda x: "Afraa " + x
+print(g("Murad"))

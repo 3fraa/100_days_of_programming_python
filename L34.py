@@ -49,6 +49,8 @@ myFun("Reem", "Yasser", "Sanaa")
 
 print()
 
+#Recursion
+
 def myFun_rec(x):
     if(x>0):  
         result = x + myFun_rec(x-1)
@@ -76,3 +78,16 @@ def fact(num):
     if num == 0: return 1
     else: return num * fact(num-1)
 print(fact(4))
+
+print()
+
+x = [1, 2, 3, 4, 5]
+def add(array):
+    if len(array)== 0 : return 0
+    else: return array[0] + add(array[1:])
+print(add(x)) # 1+array[2,3,4,5]    #1+14=15
+              # 2+array[3,4,5]      #2+12=14
+              # 3+array[4,5]        #3+9=12
+              # 4+array[5]          #4+5=9
+              # 5+array[]           #5
+
